@@ -10,7 +10,7 @@ body {
 
 #header {
   height: 100vh;
-  background-image: url(img/bg3.png);
+  background-image: url(/img/bg3.png);
   background-size: cover;
   background-position: center;
   margin-top: -20px;
@@ -328,7 +328,7 @@ hr {
   cursor: pointer;
 }
 
-@media only screen and (max-width: 770px) {
+@media only screen and (max-width: 568px) {
   #header {
     background-image: none;
   }
