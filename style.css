@@ -12,7 +12,7 @@ body {
 
 #header {
   min-height: 100vh;
-  background-image: url(/img/bg3.png);
+  background-image: url(img/bg3.png);
   background-size: cover;
   background-position: center;
   margin-top: -20px;
